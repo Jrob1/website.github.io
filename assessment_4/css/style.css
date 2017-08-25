@@ -1,0 +1,77 @@
+body{
+	background:rgb(255, 205, 0);
+	style="margin:60px";
+}
+<style>
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+</style>
+
+h1 {
+	text-align: left;
+	font-size: 24px; 
+	color: rgb(0,0,0);
+	font-family: 'Raleway', sans-serif;
+
+}
+
+h2 {
+	text-align: left; 
+	font-size: 18px;
+	font-weight: 200; 
+	color: rgb(117, 111, 109);
+	font-family: sans-serif;
+
+}
+
+h3 {
+	text-align: center;
+	font-size: 16px;
+	color: rgb(0,0,0);
+	font-family: sans-serif;
+}
+
+h4 {
+	text-align: left;
+	font-size: 16px;
+	color: rgd(0,0,0);
+	font-family: sans-serif;
+}
+
+h5 {
+	text-align: left;
+	font-size: 16px;
+	font-weight: 200; 
+	color: rgd(234,222,217);
+	font-family: sans-serif;
+
+}
+
+h6 {
+	color: rgb(255, 255, 255);
+	font-family: sans-serif;
+	text-align: center;
+	font-size: 16px;
+	font-weigt: 200;
+}
+
+
+footer {
+	background: rgb(0,0,0);
+	height: 168px;
+	padding-top: 20px; 
+	padding-left: 30px; 
+	padding-right: 30px;
+	padding-bottom: 20px;
+}
+
+header { 
+	background: rgb(0,0,0); 
+	height: 96px
+	;
+
+
+
+
+
+
+
